@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>मेरा पहला प्रोजेक्ट</title>
+</head>
+<body>
+    <h1>नमस्ते दुनिया!</h1>
+    <p>यह मेरी पहली GitHub वेबसाइट है।</p>
+    <button onclick="alert('प्रोजेक्ट सफलतापूर्वक चला!')">
+        यहाँ क्लिक करें
+    </button>
+</body>
+</html>
